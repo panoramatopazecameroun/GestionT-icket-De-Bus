@@ -55,22 +55,22 @@ ul.navbar-nav li:hover{
        
     }
 }
-.bloc-main{
+/* .bloc-main{
     flex-wrap: wrap;
     width: 90%;
     display: flex;
     justify-content: space-evenly;
     margin-top: 30px;
     margin: auto;
- }
-
+ } */
+/* 
  .bloc-1{
     width: 30%;
     box-shadow: 1px 0px 2px 0.5px black;
     height: 500px;
     border-radius: 5px;
- }
- .bloc-1:hover{
+ } */
+ .shadow:hover{
     transform: scale(1.1);
     transition-duration: 1s;
  }
@@ -91,20 +91,17 @@ ul.navbar-nav li:hover{
     font-weight: bold;
  }
 
- .num-2{
-
- }
  .signe{
     display: flex;
-    width: 43%;
+    /* width: 43%; */
     justify-content: space-between;
     text-align: center;
     margin: auto;
  }
  .bt{
     border:  1px solid rgb(118, 233, 219);
-    width: 50%;
-    height: 40px;
+    /* width: 50%;
+    height: 40px; */
     margin: auto;
     justify-content: center;
     text-align: center;
@@ -117,3 +114,9 @@ ul.navbar-nav li:hover{
     color: white;
 
  } 
+/* 
+ #fond{
+    background-image: url(../images/r3.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+ } */
